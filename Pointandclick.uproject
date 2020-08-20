@@ -38,7 +38,7 @@
 		},
 		{
 			"Name": "EditorDiscordRichPresence",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
