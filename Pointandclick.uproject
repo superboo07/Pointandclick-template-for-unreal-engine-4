@@ -3,6 +3,13 @@
 	"EngineAssociation": "4.25",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "Pointandclick",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "OculusVR",
@@ -35,10 +42,6 @@
 		{
 			"Name": "DisasterRecoveryClient",
 			"Enabled": true
-		},
-		{
-			"Name": "EditorDiscordRichPresence",
-			"Enabled": false
 		},
 		{
 			"Name": "GraphFormatter",
