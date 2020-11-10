@@ -50,7 +50,7 @@
 		},
 		{
 			"Name": "ControlRig",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "AutoSizeComments",
